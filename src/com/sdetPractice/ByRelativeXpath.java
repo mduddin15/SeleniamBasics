@@ -12,6 +12,7 @@ public class ByRelativeXpath {
             WebDriver driver = new ChromeDriver();
             driver.get("https://www.w3schools.com/default.asp");
             driver.manage().window().maximize();
+            // how to make half or not full window.
             driver.findElement(By.xpath("//input[@id='search2']")).sendKeys("html");
         }
     }
