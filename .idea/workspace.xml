@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b89fb591-fc85-47c3-833d-80d34d1083f3" name="Changes" comment="Basics of Seleniam practiced">
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/AlternateClickMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/DropDownEbay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/MouseHover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/javascriptExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByFullXPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ByFullXPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ByName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByRelativeXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ByRelativeXpath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/BySelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/BySelect.java" afterDir="false" />
-    </list>
+    <list default="true" id="b89fb591-fc85-47c3-833d-80d34d1083f3" name="Changes" comment="more methods have been added." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668426076604</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="more mathod has been added.">
+      <created>1678474859613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678474859613</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basics of seleniam practiced" />
     <MESSAGE value="Basics of Seleniam practiced" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basics of Seleniam practiced" />
+    <MESSAGE value="more mathod has been added." />
+    <option name="LAST_COMMIT_MESSAGE" value="more mathod has been added." />
   </component>
 </project>
