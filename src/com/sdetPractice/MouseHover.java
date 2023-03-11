@@ -29,6 +29,12 @@ public class MouseHover {
 
         driver.findElement(By.xpath(orders)).click();
 
+        driver.manage().deleteAllCookies();
+
+        // cookies code worked. how to check: go to settings, search cookies,
+        // go to "See all site data and permissions" then see cookies.
+
+
     }
     }
 

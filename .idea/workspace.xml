@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b89fb591-fc85-47c3-833d-80d34d1083f3" name="Changes" comment="more methods have been added." />
+    <list default="true" id="b89fb591-fc85-47c3-833d-80d34d1083f3" name="Changes" comment="more methods have been added.">
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/AcceptCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetCurrentURl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/MouseHover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/MouseHover.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +51,9 @@
       <recent name="com.sdetPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlternateClickMethod">
-    <configuration name="AlternateClickMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.AlternateClickMethod" />
+  <component name="RunManager" selected="Application.GetAttribute">
+    <configuration name="AcceptCookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.AcceptCookies" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +65,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropDownEbay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.DropDownEbay" />
+    <configuration name="GetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.GetAttribute" />
+      <module name="MySelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdetPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetCurrentURl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.GetCurrentURl" />
+      <module name="MySelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdetPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.GetTitle" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
@@ -84,39 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sdetPractice.ByFullXPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.ByFullXPath" />
-      <module name="MySelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sdetPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.sdetPractice.BySelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.BySelect" />
-      <module name="MySelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sdetPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AlternateClickMethod" />
-        <item itemvalue="Application.DropDownEbay" />
+        <item itemvalue="Application.GetAttribute" />
+        <item itemvalue="Application.GetCurrentURl" />
+        <item itemvalue="Application.GetTitle" />
+        <item itemvalue="Application.AcceptCookies" />
         <item itemvalue="Application.MouseHover" />
-        <item itemvalue="Application.com.sdetPractice.BySelect" />
-        <item itemvalue="Application.com.sdetPractice.ByFullXPath" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678474859613</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="more methods have been added.">
+      <created>1678474907548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678474907548</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +194,7 @@
     <MESSAGE value="Basics of seleniam practiced" />
     <MESSAGE value="Basics of Seleniam practiced" />
     <MESSAGE value="more mathod has been added." />
-    <option name="LAST_COMMIT_MESSAGE" value="more mathod has been added." />
+    <MESSAGE value="more methods have been added." />
+    <option name="LAST_COMMIT_MESSAGE" value="more methods have been added." />
   </component>
 </project>
