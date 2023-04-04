@@ -16,8 +16,7 @@ public class GetAttribute {
         driver.manage().window().maximize();
 
         final String accountAndList = "//*[@id='nav-link-accountList']/span";
-        final String orders = "//*[@id='nav_prefetch_yourorders']/span";
-
+        
         WebElement ele = driver.findElement(By.xpath(accountAndList));
 
         String classAttribute = ele.getAttribute("class");

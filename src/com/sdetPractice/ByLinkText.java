@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 
 public class ByLinkText {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", "/Users/mdrakibuddin/Desktop/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/mdrakibuddin/Desktop/JavaJarAndOthers/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.guru99.com/java-tutorial.html");
         driver.manage().window().maximize();

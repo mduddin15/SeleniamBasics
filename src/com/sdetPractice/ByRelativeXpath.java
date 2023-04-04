@@ -8,7 +8,7 @@ public class ByRelativeXpath {
 
         public static void main(String[] args) {
 
-            System.setProperty("webdriver.chrome.driver", "/Users/mdrakibuddin/Desktop/chromedriver");
+            System.setProperty("webdriver.chrome.driver", "/Users/mdrakibuddin/Desktop/JavaJarAndOthers/chromedriver");
             WebDriver driver = new ChromeDriver();
             driver.get("https://www.w3schools.com/default.asp");
             driver.manage().window().maximize();
