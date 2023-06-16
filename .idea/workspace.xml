@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89fb591-fc85-47c3-833d-80d34d1083f3" name="Changes" comment="New codes have been added.">
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/AuthenticationPopUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/FileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/FourthPopUpAlert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/IsDisplayed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/NavigateCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUpHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/ScrollDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/SearchAndClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/SecondAlertPopUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/SignIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/ThirdPopUpAlert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/WindowHandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/WindowSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/DoubleClick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MySelenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/MouseHover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/MouseHover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/AlternateClickMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/AlternateClickMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/GetCurrentURl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetCurrentURl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +49,22 @@
       <recent name="com.sdetPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchAndClick">
-    <configuration name="FileUpload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.FileUpload" />
+  <component name="RunManager" selected="Application.AlternateClickMethod">
+    <configuration name="AlternateClickMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.AlternateClickMethod" />
+      <module name="MySelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sdetPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.DoubleClick" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchAndClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.SearchAndClick" />
+    <configuration name="SearchClickAndVerify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.SearchClickAndVerify" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
@@ -114,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.WindowSize" />
-      <module name="MySelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sdetPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SearchAndClick" />
+        <item itemvalue="Application.AlternateClickMethod" />
+        <item itemvalue="Application.DoubleClick" />
+        <item itemvalue="Application.SearchClickAndVerify" />
         <item itemvalue="Application.SignIn" />
         <item itemvalue="Application.ScrollDown" />
-        <item itemvalue="Application.FileUpload" />
-        <item itemvalue="Application.WindowSize" />
       </list>
     </recent_temporary>
   </component>

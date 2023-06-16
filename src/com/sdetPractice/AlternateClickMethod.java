@@ -21,27 +21,35 @@ public class AlternateClickMethod {
 
         WebElement gmailButtonElement = driver.findElement(By.xpath(gmailButton));
 
-        /* gmailButtonElement.click();
+        //click by click() method
+
+        /*gmailButtonElement.click();
         Thread.sleep(5000);
         driver.quit();*/
+
+        //click by sendKeys(Keys.ENTER) method
 
         /*gmailButtonElement.sendKeys(Keys.ENTER);
         Thread.sleep(5000);
         driver.quit();*/
 
+        //click by sendKeys(Keys.RETURN method
+
         /*gmailButtonElement.sendKeys(Keys.RETURN);
         Thread.sleep(5000);
         driver.quit();*/
 
-        /*javascriptExecutor js = (javascriptExecutor)driver;
-        js.executeScript("arguments[0].click();", gmailButtonElement);
-        Thread.sleep(5000);*/
+        //click by javascript executor method
 
-        Actions action = new Actions(driver);
-        action.click(gmailButtonElement);
+        JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
+        jsExecutor.executeScript("arguments[0].click();", gmailButtonElement);
+        driver.quit();
+
+        //click by action class
+        /*Actions actions = new Actions(driver);
+        actions.click(gmailButtonElement).perform();
         Thread.sleep(5000);
-
+        driver.quit();*/
 
     }
-
 }

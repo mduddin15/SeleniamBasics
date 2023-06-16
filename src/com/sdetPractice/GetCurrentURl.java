@@ -18,9 +18,9 @@ public class GetCurrentURl {
         System.out.println("Current Url of the website is: " + url);
 
         Thread.sleep(3000);
-        driver.close(); // only close current browser window. driver.quit() close all parent and child window.
+        driver.close();
+        // only close current browser window.
+        // driver.quit() close all parent and child window.
 
     }
-
-
 }
