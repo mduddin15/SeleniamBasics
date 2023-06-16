@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89fb591-fc85-47c3-833d-80d34d1083f3" name="Changes" comment="New codes have been added.">
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/AuthenticationPopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/FourthPopUpAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/IsDisplayed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/NavigateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUpHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/ScrollDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/SearchAndClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/SecondAlertPopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/SignIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/ThirdPopUpAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/WindowSize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByFullXPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ByFullXPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ById.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByLinkText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ByLinkText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ByName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByRelativeXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ByRelativeXpath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/GetAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MySelenium.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/MouseHover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/MouseHover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/javascriptExecutor.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +52,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -55,9 +61,9 @@
       <recent name="com.sdetPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GetTitle">
-    <configuration name="AcceptCookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.AcceptCookies" />
+  <component name="RunManager" selected="Application.SearchAndClick">
+    <configuration name="FileUpload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.FileUpload" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.GetAttribute" />
+    <configuration name="ScrollDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.ScrollDown" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.GetText" />
+    <configuration name="SearchAndClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.SearchAndClick" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.GetTitle" />
+    <configuration name="SignIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.SignIn" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MouseHover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.MouseHover" />
+    <configuration name="WindowSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.WindowSize" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GetTitle" />
-        <item itemvalue="Application.GetAttribute" />
-        <item itemvalue="Application.MouseHover" />
-        <item itemvalue="Application.GetText" />
-        <item itemvalue="Application.AcceptCookies" />
+        <item itemvalue="Application.SearchAndClick" />
+        <item itemvalue="Application.SignIn" />
+        <item itemvalue="Application.ScrollDown" />
+        <item itemvalue="Application.FileUpload" />
+        <item itemvalue="Application.WindowSize" />
       </list>
     </recent_temporary>
   </component>
