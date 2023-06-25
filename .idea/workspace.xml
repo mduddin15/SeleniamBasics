@@ -5,15 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89fb591-fc85-47c3-833d-80d34d1083f3" name="Changes" comment="New codes have been added.">
-      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/DoubleClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/ActionClass/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/ActionClass/RightClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/Advanced/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/Advanced/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/Advanced/RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/Advanced/ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/Basics/ClearTextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetMethod/GetAttributeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/Locators/ByClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/Locators/ByCssSelectorCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/Locators/ByPartialLinkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUp/ExplicitWaitPopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUp/SecondAlertPopUpByExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUp/SecondAlertPopUpByFluentWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUp/WindowHandles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/AlternateClickMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/AlternateClickMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/GetCurrentURl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetCurrentURl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MySelenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/AcceptCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Basics/AcceptCookies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/AlternateClickMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/JavaScript/AlternateClickMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/AuthenticationPopUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUp/AuthenticationPopUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByFullXPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Locators/ByFullXPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Locators/ById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByLinkText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Locators/ByLinkText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Locators/ByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ByRelativeXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Locators/ByRelativeXpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/BySelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/SelectClass/BySelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/DoubleClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ActionClass/DoubleClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/DropDownEbay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/SelectClass/DropDownEbay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/FileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Advanced/FileUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/FourthPopUpAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUp/FourthPopUpAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/GetAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetMethod/GetAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/GetCurrentURl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetMethod/GetCurrentURl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/GetText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetMethod/GetText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/GetTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/GetMethod/GetTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/IsDisplayed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Advanced/IsDisplayed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/MouseHover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/ActionClass/MouseHover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/NavigateCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Basics/NavigateCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/PopUpHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUp/FirstAlertPopUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ScrollDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/JavaScript/ScrollDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/SearchClickAndVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Basics/SearchClickAndVerify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/SecondAlertPopUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Basics/SignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/ThirdPopUpAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/PopUp/ThirdPopUpAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/WindowHandles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sdetPractice/WindowSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sdetPractice/Basics/WindowSize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,17 +73,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GobeqBBuyv714zglokIiwz29cs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
@@ -48,14 +95,17 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.sdetPractice" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sdetPractice" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.AlternateClickMethod">
-    <configuration name="AlternateClickMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.AlternateClickMethod" />
+  <component name="RunManager" selected="Application.GetAttributeValue">
+    <configuration name="ByClassName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.Locators.ByClassName" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdetPractice.*" />
+          <option name="PATTERN" value="com.sdetPractice.Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.DoubleClick" />
+    <configuration name="ByCssSelectorCommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.Locators.ByCssSelectorCommand" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdetPractice.*" />
+          <option name="PATTERN" value="com.sdetPractice.Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScrollDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.ScrollDown" />
+    <configuration name="GetAttributeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.GetMethod.GetAttributeValue" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdetPractice.*" />
+          <option name="PATTERN" value="com.sdetPractice.GetMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchClickAndVerify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.SearchClickAndVerify" />
+    <configuration name="RightClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.ActionClass.RightClick" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdetPractice.*" />
+          <option name="PATTERN" value="com.sdetPractice.ActionClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.SignIn" />
+    <configuration name="ScreenShot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdetPractice.Advanced.ScreenShot" />
       <module name="MySelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdetPractice.*" />
+          <option name="PATTERN" value="com.sdetPractice.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AlternateClickMethod" />
-        <item itemvalue="Application.DoubleClick" />
-        <item itemvalue="Application.SearchClickAndVerify" />
-        <item itemvalue="Application.SignIn" />
-        <item itemvalue="Application.ScrollDown" />
+        <item itemvalue="Application.GetAttributeValue" />
+        <item itemvalue="Application.ScreenShot" />
+        <item itemvalue="Application.RightClick" />
+        <item itemvalue="Application.ByClassName" />
+        <item itemvalue="Application.ByCssSelectorCommand" />
       </list>
     </recent_temporary>
   </component>
@@ -196,11 +246,17 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Basics of seleniam practiced" />
     <MESSAGE value="Basics of Seleniam practiced" />
     <MESSAGE value="more mathod has been added." />
     <MESSAGE value="more methods have been added." />
     <MESSAGE value="New codes have been added." />
     <option name="LAST_COMMIT_MESSAGE" value="New codes have been added." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniamBasics$SecondAlertPopUpExplicitWait.ic" NAME="SecondAlertPopUpExplicitWait Coverage Results" MODIFIED="1687393833304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sdetPractice.*</FILTER>
+    </SUITE>
   </component>
 </project>
