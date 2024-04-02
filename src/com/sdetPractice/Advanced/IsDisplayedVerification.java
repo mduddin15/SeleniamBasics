@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class IsDisplayed {
+public class IsDisplayedVerification {
 
     public static void main(String[] args) {
         // Set the path to the chromedriver executable

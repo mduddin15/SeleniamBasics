@@ -1,10 +1,8 @@
 package com.sdetPractice.PopUp;
 
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 
@@ -38,11 +36,12 @@ public class SecondAlertPopUpByFluentWait {
         Thread.sleep(3000);
 
         // Use FluentWait to wait for the alert to be present
-        Alert alert = wait.until(ExpectedConditions.alertIsPresent());
+        //Alert alert = wait.until(ExpectedConditions.alertIsPresent());
 
         // Perform actions on the alert
+
        // System.out.println("Alert text: " + alert.getText());
-       alert.accept();
+      // alert.accept();
 
         // Close the browser
         driver.quit();

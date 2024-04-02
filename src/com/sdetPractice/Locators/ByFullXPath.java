@@ -12,5 +12,6 @@ public class ByFullXPath {
         driver.get("https://www.epassport.gov.bd/landing");
         driver.manage().window().maximize();
         driver.findElement(By.xpath("//body/vbeop-root[1]/div[2]/div[2]/vbeop-landing-master[1]/vbeop-landing[1]/div[1]/div[1]/vbeop-instruction-panels[1]/div[1]/div[1]/div[1]/div[2]/vbeop-instruction-panel[1]/div[1]/div[1]/div[2]/div[2]/a[1]/img[1]")).click();
+
     }
 }
